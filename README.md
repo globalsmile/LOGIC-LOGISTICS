@@ -47,11 +47,17 @@ The continuous activity of the business was split into fact tables:
 - [Profit_and_Loss]
 
 In the [Profit_and_Loss] table, DAX was used to create a calculated column named 'Profit/Loss'
-Each column in the tables was validated to ensure data accuracy.
+
+Each column in the tables were validated to have the correct data type in order to ensure data accuracy.
 
 ---
 
 # FINDINGS AND RECOMMENDATIONS:
 
 
+![logisticss](https://user-images.githubusercontent.com/106287208/177889879-0e8a79a5-d0cd-4463-b79f-d1c3c770f111.jpg)
+
+
+From findings, the business has been underperforming and incurred a loss of $70M dollars overtime.
+The selling price of the cars should be raised above the present price to bring about profit to the business.
 
