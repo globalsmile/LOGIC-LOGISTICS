@@ -59,5 +59,6 @@ Each column in the tables were validated to have the correct data type in order 
 
 
 From findings, the business has been underperforming and incurred a loss of $70M dollars overtime.
+
 The selling price of the cars should be raised above the present price to bring about profit to the business.
 
