@@ -1,6 +1,6 @@
 # PROJECT NAME:
 
-LOGIC LOGISTICS REPORT
+Logic Logistics Report
 
 ---
 
