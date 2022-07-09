@@ -37,7 +37,7 @@ The data was collected and loaded directly into Power Query for transformation u
 
 # DATA TRANSFORMATION:
 
-The data set being denormalised, refactoring into dimensions and fact tables was imminent.
+With the data set being denormalised, refactoring into dimensions and fact tables was imminent.
 The permanent data representing the business entities was split into dimension tables:
 - [Cars]
 - [Seller Type]
@@ -46,7 +46,7 @@ The continuous activity of the business was split into fact tables:
 - [Sales]
 - [Profit_and_Loss]
 
-In the [Profit_and_Loss] table, DAX was used to create a calculated column named 'Profit/Loss'
+In the [Profit_and_Loss] table,the DAX ('Profit/Loss' = 'Selling Price' - 'Present Price') was used to create a calculated column.
 
 Each column in the tables were validated to have the correct data type in order to ensure data accuracy.
 
@@ -58,7 +58,14 @@ Each column in the tables were validated to have the correct data type in order 
 ![logisticss](https://user-images.githubusercontent.com/106287208/177889879-0e8a79a5-d0cd-4463-b79f-d1c3c770f111.jpg)
 
 
-From findings, the business has been underperforming and incurred a loss of $70M dollars overtime.
+From findings:
 
-The selling price of the cars should be raised above the present price to bring about profit to the business.
+- The company has a total of 100K cars
+- The company's total present price of the cars is over $1B
+- The company's total selling price of the cars is over $975M
+- It was then determined the company has been underperforming and incurred a loss of $70M dollars overtime.
+
+Recommendation:
+
+The selling price of the cars should be raised above the present price to bring about profit for the company.
 
