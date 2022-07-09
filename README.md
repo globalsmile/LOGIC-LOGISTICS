@@ -38,17 +38,17 @@ The data was collected and loaded directly into Power Query for transformation u
 # DATA TRANSFORMATION:
 
 With the data set being denormalised, refactoring into dimensions and fact tables was imminent.
-The permanent data representing the business entities was split into dimension tables:
-- [Cars]
-- [Seller Type]
+The permanent data representing the business entities was split into dimension tables named:
+- Cars
+- Seller Type
 
-The continuous activity of the business was split into fact tables:
-- [Sales]
-- [Profit_and_Loss]
+The continuous activity of the business was split into fact tables named:
+- Sales
+- Profit_and_Loss
 
-In the [Profit_and_Loss] table,the DAX ('Profit/Loss' = 'Selling Price' - 'Present Price') was used to create a calculated column.
+In the Profit_and_Loss table,the DAX (Profit/Loss = 'Profit_and_Loss'[Selling Price] - 'Profit_and_loss'[Present Price]) was used to create a calculated column to determine the profit/loss.
 
-Each column in the tables were validated to have the correct data type in order to ensure data accuracy.
+Each column in each of the tables were validated to have the correct data type in order to ensure data accuracy.
 
 ---
 
