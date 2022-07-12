@@ -49,21 +49,22 @@ The continuous activity of the business was split into fact tables named:
 In the Profit_and_Loss table,the DAX (Profit/Loss = 'Profit_and_Loss'[Selling Price] - 'Profit_and_loss'[Present Price]) was used to create a calculated column to determine the profit/loss.
 
 Each column in each of the tables were validated to have the correct data type in order to ensure data accuracy.
+Each table was formatted to avoid repeated(duplicate) values.
 
 ---
 
 # FINDINGS AND RECOMMENDATIONS:
 
 
-![logisticss](https://user-images.githubusercontent.com/106287208/177889879-0e8a79a5-d0cd-4463-b79f-d1c3c770f111.jpg)
 
+![logistics](https://user-images.githubusercontent.com/106287208/178383470-6bca05b4-e219-466c-84bf-564efeb8dab5.jpg)
 
 From findings:
 
-- The company has a total of 100K cars
-- The company's total present price of the cars is over $1B
-- The company's total selling price of the cars is over $975M
-- It was then determined the company has been underperforming and incurred a loss of $70M dollars overtime.
+- The company has a total of 91K cars
+- The company's total present price of the cars is over $967M
+- The company's total selling price of the cars is over $906M
+- It was then determined the company has been underperforming and incurred a loss of $65M dollars overtime.
 
 Recommendation:
 
