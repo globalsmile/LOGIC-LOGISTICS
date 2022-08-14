@@ -23,24 +23,21 @@
 
 # Introduction
 
-The goal of this financial analysis is to analyze whether the client is stable, solvent, liquid, or profitable enough to warrant a monetary investment. 
+The goal of this analysis is to perform an exploratory data analysis of the dataset and uncover interesting insights. 
 
 
 ---
 
 # Problem Statement
 
-Using the client's financial data:
-- Help the client unlock the potential of analysis and reporting
-- Produce everything the client need to know about her finances
+Build a Power BI Report for Logic Logistics Company and have this report published to Power BI Service, create a Dashboard from the Report and share the Dashboard with your stakeholders.
 
 ---
 
 # Data Sourcing
 
-This Datasets were presented by [Finex Skills Hub](https://www.finexskillshub.com) and available at:
-
-- https://tinyurl.com/OUINIG
+This Datasets is available at https://aka.ms/30DLDATGitHubRepo. 
+Locate the "KaggleCarData" csv file.
 
 ---
 
