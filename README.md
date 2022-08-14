@@ -97,7 +97,7 @@ Figure 1 shows visualizations from  the `Dashboard`
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/184520063-abdc256d-4b68-4475-8945-f5b4ea3a1dda.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/184520187-fd9bb51c-3a6b-4faa-b870-6ff21caeda56.png) |
 
 ---
 
