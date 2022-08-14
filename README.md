@@ -97,7 +97,7 @@ Figure 1 shows visualizations from  the `Dashboard`
 
 | Figure 1 |
 | ----------- |
-| ![image](https://user-images.githubusercontent.com/106287208/183564662-5a1714c7-610e-45f7-be17-6ae94c6a4628.png) |
+| ![image](https://user-images.githubusercontent.com/106287208/184520063-abdc256d-4b68-4475-8945-f5b4ea3a1dda.png) |
 
 ---
 
@@ -137,4 +137,4 @@ The `city` car sells more than the other cars, perhaps more `city` cars should b
 
 You can interact with the report here: 
 
-https://badmus67-my.sharepoint.com/:x:/g/personal/mohammed_badmus67_onmicrosoft_com/EfKDjq3DT4RJhenoDiMh8PMBDZlr7QphTXE5LavoYkjkRw?e=Ak5sqZ
+https://app.powerbi.com/view?r=eyJrIjoiNWMzMzA5OGYtZjU4Yy00YWVkLTkxMWUtMjkzMjU4ODJhMjA4IiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9
